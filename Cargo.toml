@@ -1,6 +1,6 @@
 [package]
 name = "grad"
-version = "0.1.0"
+version = "0.2.0"
 repository = "https://github.com/geal/grad"
 description = "aggregate, store, query and visualize your metrics, all in one tool"
 license = "AGPL-3.0-or-later"
